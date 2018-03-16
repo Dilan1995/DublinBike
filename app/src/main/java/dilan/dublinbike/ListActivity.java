@@ -1,3 +1,4 @@
+//DILAN TOLLEN    16357
 package dilan.dublinbike;
 
 import android.content.Intent;
@@ -22,8 +23,6 @@ import dilan.dublinbike.classes.Station;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-
-//DILAN TOLLEN    16357
 
 public class ListActivity extends AppCompatActivity {
 

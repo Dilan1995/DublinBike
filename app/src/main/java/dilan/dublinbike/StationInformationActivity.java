@@ -1,3 +1,4 @@
+//DILAN TOLLEN 16357
 package dilan.dublinbike;
 
 import android.os.Bundle;
@@ -11,7 +12,7 @@ import android.widget.TextView;
 import dilan.dublinbike.classes.Station;
 
 
-//DILAN TOLLEN 16357
+
 public class StationInformationActivity extends AppCompatActivity {
 
     @Override
