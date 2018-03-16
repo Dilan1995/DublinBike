@@ -27,7 +27,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ListActivity extends AppCompatActivity {
 
     private static final String TAG = "ListActivity";
-
+// library for dublin bike api key and info
     Retrofit retrofit = new Retrofit.Builder()
             .baseUrl("https://api.jcdecaux.com/vls/v1/")
             .addConverterFactory(GsonConverterFactory.create())
